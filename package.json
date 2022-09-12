@@ -46,7 +46,7 @@
     "@typescript-eslint/eslint-plugin": "^5.30.0",
     "@typescript-eslint/parser": "^5.30.0",
     "alias-hq": "^5.4.0",
-    "babel-jest": "^28.1.2",
+    "babel-jest": "^29.0.3",
     "babel-loader": "^8.2.5",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^11.0.0",
