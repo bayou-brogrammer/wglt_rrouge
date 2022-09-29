@@ -5,3 +5,6 @@ export * from './fov';
 
 @component
 export class Player {}
+
+@component
+export class BlocksTile {}
